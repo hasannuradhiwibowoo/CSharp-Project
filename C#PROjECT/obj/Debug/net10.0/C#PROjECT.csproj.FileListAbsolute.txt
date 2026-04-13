@@ -1,0 +1,15 @@
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\bin\Debug\net10.0\C#PROjECT.exe
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\bin\Debug\net10.0\C#PROjECT.deps.json
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\bin\Debug\net10.0\C#PROjECT.runtimeconfig.json
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\bin\Debug\net10.0\C#PROjECT.dll
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\bin\Debug\net10.0\C#PROjECT.pdb
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.AssemblyInfoInputs.cache
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.AssemblyInfo.cs
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.sourcelink.json
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.dll
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\refint\C#PROjECT.dll
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.pdb
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\C#PROjECT.genruntimeconfig.cache
+C:\Users\Pongo\OneDrive\Desktop\C# Project\C#PROjECT\obj\Debug\net10.0\ref\C#PROjECT.dll
