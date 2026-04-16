@@ -80,5 +80,6 @@ namespace CSharp
         //SAYA BERJANJI TIDAK MENYONTEK DAN OPEN AI ATAU SEJENISNYA
         //SAYA BERBUAT DEMI MASA DEPAN 
         //ngga baca kalau misal bisa pilih pake int atau double wkwkkwwk (malas ngedit lagi)
+        //DIKUMPULKAN JAM 09.10
     } 
 }        
