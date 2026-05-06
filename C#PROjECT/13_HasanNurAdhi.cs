@@ -110,7 +110,7 @@ namespace CSharp
                     Console.WriteLine("Terima kasih telah mencoba!");
                 }*/
 
-                Console.WriteLine("====== pilih hewan kesukaan ======");
+                /*Console.WriteLine("====== pilih hewan kesukaan ======");
                 Console.WriteLine();
                 Console.WriteLine("1. Kucing");
                 Console.WriteLine("2. Anjing");
@@ -144,7 +144,10 @@ namespace CSharp
                 else
                 {
                     Console.WriteLine("Pilihan tidak valid");
-                }
+                }*/
+
+                
+
          }
     } 
 }        
