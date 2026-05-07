@@ -1,0 +1,15 @@
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\bin\Debug\net10.0\Casino.exe
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\bin\Debug\net10.0\Casino.deps.json
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\bin\Debug\net10.0\Casino.runtimeconfig.json
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\bin\Debug\net10.0\Casino.dll
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\bin\Debug\net10.0\Casino.pdb
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.AssemblyInfo.cs
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.sourcelink.json
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.dll
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\refint\Casino.dll
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.pdb
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\Casino.genruntimeconfig.cache
+C:\Users\Pongo\OneDrive\Desktop\C# Project\Casino\obj\Debug\net10.0\ref\Casino.dll
